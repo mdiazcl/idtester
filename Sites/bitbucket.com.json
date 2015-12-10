@@ -1,0 +1,12 @@
+{
+	"author": "Miguel Diaz <miguel.diaz@mdiazlira.com>",
+	"comment": "Bitbucket Login Data",
+
+	"site_login_url": "https://bitbucket.org/account/signin/",
+	"site_test_url": "https://bitbucket.org/",
+	"regex_match_success": "bitbucket.apps.dashboard.views.dashboard_overview",
+	"regex_match_fail": "bitbucket.apps.marketing.views.homepage",
+	"form_number": "2",
+	"username_field": "username",
+	"password_field": "password"
+}

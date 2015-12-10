@@ -1,0 +1,12 @@
+{
+	"author": "Miguel Diaz <miguel.diaz@mdiazlira.com>",
+	"comment": "Facebook Login Data",
+
+	"site_login_url": "https://m.facebook.com/",
+	"site_test_url": "https://www.facebook.com/",
+	"regex_match_success": "",
+	"regex_match_fail": "facebook.com/login.php",
+	"form_number": "0",
+	"username_field": "email",
+	"password_field": "pass"
+}
